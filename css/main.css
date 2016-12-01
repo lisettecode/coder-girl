@@ -1,0 +1,38 @@
+header {
+    background-image: url('../img/home.jpg');
+	padding-top: 130px;
+	background-position: center;
+	height: 410px;
+}
+
+ header h1 {
+	color: white;
+}
+
+section {
+	padding: 6% 0;
+}
+
+h2 {
+	padding-bottom: 6%;
+}
+
+.back {
+	background-color: yellow;
+	height: 50%;
+}
+
+.texto {
+	padding-top: 6%;
+}
+
+footer {
+	background-color: dodgerblue;
+    padding: 4% 0;
+	height: 110px;
+
+}
+
+span {
+	color: yellow;
+}
